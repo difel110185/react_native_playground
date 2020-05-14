@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="39caea3e-1db9-4607-aff9-abf07dfb45a3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/firstapp/ImageComponent1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firstapp/SimpleComponent1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firstapp/bcit.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/gps" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1Qk81Vumf0f50ABej8OQiDUtOWp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/final/assets" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/final/assets" />
+      <recent name="$PROJECT_DIR$/final" />
+      <recent name="$PROJECT_DIR$/pharmacy" />
+      <recent name="$PROJECT_DIR$/drugs" />
+      <recent name="$PROJECT_DIR$/firebase/view" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assignment1/assets" />
+      <recent name="$PROJECT_DIR$/assignment1" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39caea3e-1db9-4607-aff9-abf07dfb45a3" name="Default Changelist" comment="" />
+      <created>1568303018600</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568303018600</updated>
+      <workItem from="1568303019721" duration="4532000" />
+      <workItem from="1568308950663" duration="392000" />
+      <workItem from="1568907426959" duration="1831000" />
+      <workItem from="1568909901846" duration="2939000" />
+      <workItem from="1569513156634" duration="4823000" />
+      <workItem from="1570116915968" duration="7142000" />
+      <workItem from="1570243036503" duration="33000" />
+      <workItem from="1570324398806" duration="26439000" />
+      <workItem from="1570470983220" duration="198000" />
+      <workItem from="1570510852742" duration="23000" />
+      <workItem from="1570645806944" duration="136000" />
+      <workItem from="1570656289136" duration="66000" />
+      <workItem from="1570722724656" duration="5357000" />
+      <workItem from="1570735446608" duration="223000" />
+      <workItem from="1571326855017" duration="5871000" />
+      <workItem from="1571335310755" duration="141000" />
+      <workItem from="1571595402607" duration="35000" />
+      <workItem from="1572535522900" duration="6001000" />
+      <workItem from="1573022170857" duration="18910000" />
+      <workItem from="1573145108725" duration="3270000" />
+      <workItem from="1573149882967" duration="544000" />
+      <workItem from="1573748278275" duration="9905000" />
+      <workItem from="1573936597660" duration="3880000" />
+      <workItem from="1573943775976" duration="174000" />
+      <workItem from="1573943955331" duration="4428000" />
+      <workItem from="1574296825733" duration="24000" />
+      <workItem from="1574352446420" duration="9527000" />
+      <workItem from="1574723330931" duration="9223000" />
+      <workItem from="1575399438354" duration="446000" />
+      <workItem from="1575421647773" duration="213000" />
+      <workItem from="1575490770153" duration="255000" />
+      <workItem from="1575563895509" duration="143000" />
+      <workItem from="1576042410563" duration="3935000" />
+      <workItem from="1576050394689" duration="2426000" />
+      <workItem from="1576167600242" duration="301000" />
+      <workItem from="1576169052039" duration="7303000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/drugs2" />
+      <path value="$PROJECT_DIR$/pharmacy" />
+      <path value="$PROJECT_DIR$/drugs" />
+      <path value="$PROJECT_DIR$/final" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="469" y="179" key="SettingsEditor" timestamp="1576052072736">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="469" y="179" key="SettingsEditor/277.1080.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1576052072736" />
+    <state x="480" y="252" width="683" height="476" key="find.popup" timestamp="1576172507592">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="480" y="252" width="683" height="476" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1576172507592" />
+    <state x="640" y="302" width="639" height="476" key="find.popup/277.1080.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1576050034933" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1576052077349">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/277.1080.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1576052077349" />
+  </component>
+</project>
